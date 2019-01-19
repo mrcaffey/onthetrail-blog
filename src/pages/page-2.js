@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import {Enterprise} from '../EnterpriseHD_728x300.png'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 
