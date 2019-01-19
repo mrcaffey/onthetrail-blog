@@ -9,7 +9,9 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <h1>Welcome!</h1>
-    <p>Hi! My name is Micah Caffey. I'm a passionate outdoorsman, conservationist, and passionate programmer.</p>
+    <p>Hi! My name is Micah Caffey. I'm an outdoorsman, conservationist, and passionate programmer.
+    I moved from Mississippi to Utah in 2018 to fulfill my need to be near the mountains and take the 
+    plunge into the world of software development. This is my story.</p>
     <p>Here you can see what I'm learning, projects I'm working on, and my journey into software development.</p>
     <h1>2019</h1>
     <h2>January 19th</h2>
