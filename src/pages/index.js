@@ -14,11 +14,12 @@ const IndexPage = () => (
     plunge into the world of software development. This is my story.</p>
     <p>Here you can see what I'm learning, projects I'm working on, and my journey into software development.</p>
     <h1>2019</h1>
-    <h2>January 19th</h2>
+    <h2>January 19</h2>
     <p>My first blog post! Today I'm working on a Udemy React 16.6 Tutorial
     and trying to get a contact form working on a construction site for a company
     in Mississippi. For this, I'm thinking I will need to implement PHP or Node for the backend.
     Stay tuned!</p>
+    <h2>January 20</h2>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
