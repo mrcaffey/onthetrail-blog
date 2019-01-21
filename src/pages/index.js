@@ -11,8 +11,20 @@ const IndexPage = () => (
     <h1>Welcome!</h1>
     <p>Hi! My name is Micah Caffey. I'm an outdoorsman, conservationist, and passionate programmer.
     I moved from Mississippi to Utah in 2018 to fulfill my need to be near the mountains and take the 
-    plunge into the world of software development. This is my story.</p>
-    <p>Here you can see what I'm learning, projects I'm working on, and my journey into working in tech.</p>
+    plunge into the world of software development.</p>
+    <h1>My Stack</h1>
+    <p>I currently work with the following technologies:</p>
+    <ul>
+    <li>Javascript</li>
+    <li>ReactJS</li>
+    <li>React Native</li>
+    <li>NodeJS</li>
+    <li>PHP</li>
+    <li>Ruby</li>
+    <li>Rails framework</li>
+    <li>SQL</li>
+    <li></li>
+    </ul>
     <h1>2019</h1>
     <h2>January 19</h2>
     <p>My first blog post! Today I'm working on a Udemy React 16.6 Tutorial
