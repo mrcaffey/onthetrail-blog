@@ -7,7 +7,7 @@ const SecondPage = () => (
   <Layout>
     <SEO title="Page two" />
     <h1>Welcome to My Portfolio!</h1>
-      <h2>Enterprise International Web Application</h2>
+      <h2><b>Enterprise International Web Application</b></h2>
       <p>Technologies Used:
             ReactJS, Ruby, Rails Framework
       </p>
@@ -19,7 +19,7 @@ const SecondPage = () => (
       </p>
       <Link to="https://dps-enterprise-international.herokuapp.com/">Enterprise International</Link>
 
-      <h2>Caffey, Inc. Design-Build Medical Renovation Web Application</h2>
+      <h2><b>Caffey, Inc. Design-Build Medical Renovation Web Application</b></h2>
       <p>Technologies Used:
         ReactJS, NodeJS, PHP, HTML/CSS
       </p>
@@ -27,7 +27,13 @@ const SecondPage = () => (
       steps in this project included linking site pages, adding an image carousel, and 
       implementing a contact form.</p>
       <Link to="https://www.caffeyinc.com/">Caffey, Inc.</Link>
-      
+
+      <h2><b>Mugshot: Facebook Clone</b></h2>
+      <p>Technologies Used:
+        Ruby/Rails, ReactJS, HTML/CSS</p>
+      <p>Mugshot is an app built to upload & share your favorite jail photos as well as post, comment and like on other's posts.</p>
+
+
 
 
     <Link to="/">Go back to the homepage</Link>
