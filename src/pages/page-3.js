@@ -7,6 +7,7 @@ const ThirdPage = () => (
   <Layout>
     <SEO title="Page three" />
         <div>
+        <h1>Contact Me</h1>
         <form action="/action_page.php">
         <label>First Name</label>
         <input type="text" id="fname" name="firstname" placeholder="Your name.." />

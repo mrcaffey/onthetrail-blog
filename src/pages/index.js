@@ -12,14 +12,16 @@ const IndexPage = () => (
     <p>Hi! My name is Micah Caffey. I'm an outdoorsman, conservationist, and passionate programmer.
     I moved from Mississippi to Utah in 2018 to fulfill my need to be near the mountains and take the 
     plunge into the world of software development. This is my story.</p>
-    <p>Here you can see what I'm learning, projects I'm working on, and my journey into software development.</p>
+    <p>Here you can see what I'm learning, projects I'm working on, and my journey into working in tech.</p>
     <h1>2019</h1>
     <h2>January 19</h2>
     <p>My first blog post! Today I'm working on a Udemy React 16.6 Tutorial
     and trying to get a contact form working on a construction site for a company
     in Mississippi. For this, I'm thinking I will need to implement PHP or Node for the backend.
     Stay tuned!</p>
-    <h2>January 20</h2>
+    <h2>January 21</h2>
+    <p>Deployment day for the Caffey, Inc. Web Application. I've gotten the form to submit
+    successfully using x,y,z technology and deployed via Netlify.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
