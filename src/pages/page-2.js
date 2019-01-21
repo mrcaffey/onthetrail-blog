@@ -19,10 +19,20 @@ const SecondPage = () => (
       </p>
       <Link to="https://dps-enterprise-international.herokuapp.com/">Enterprise International</Link>
 
+      <h2>Caffey, Inc. Design-Build Medical Renovation Web Application</h2>
+      <p>Technologies Used:
+        ReactJS, NodeJS, PHP, HTML/CSS
+      </p>
+      <p>This project involved building a website for a construction company. Major
+      steps in this project included linking site pages, adding an image carousel, and 
+      implementing a contact form.</p>
+      <Link to="https://www.caffeyinc.com/">Caffey, Inc.</Link>
+
+
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 
-  
+
 )
 
 export default SecondPage
