@@ -27,6 +27,7 @@ const SecondPage = () => (
       steps in this project included linking site pages, adding an image carousel, and 
       implementing a contact form.</p>
       <Link to="https://www.caffeyinc.com/">Caffey, Inc.</Link>
+      
 
 
     <Link to="/">Go back to the homepage</Link>
