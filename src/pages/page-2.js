@@ -17,7 +17,7 @@ const SecondPage = () => (
         My role in this project was controller testing, admin dashboard/user login creation using ReactJS, pulling in data to retrieve users, 
         and assisting in setting up Models, Views and Controllers for the Rails portion of the app.
       </p>
-      <Link to="https://dps-enterprise-international.herokuapp.com/">Enterprise International</Link>
+      <Link to="https://dps-enterprise-international.herokuapp.com">Enterprise International</Link>
 
       <h2><b>Caffey, Inc. Design-Build Medical Renovation Web Application</b></h2>
       <p>Technologies Used:
@@ -26,7 +26,7 @@ const SecondPage = () => (
       <p>This project involved building a website for a construction company. Major
       steps in this project included linking site pages, adding an image carousel, and 
       implementing a contact form.</p>
-      <Link to="https://www.caffey-inc.com/">Caffey, Inc.</Link>
+      <Link to="https://www.caffey-inc.com">Caffey, Inc.</Link>
 
       <h2><b>Mugshot: Facebook Clone</b></h2>
       <p>Technologies Used:
