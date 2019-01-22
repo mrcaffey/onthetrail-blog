@@ -26,7 +26,7 @@ const SecondPage = () => (
       <p>This project involved building a website for a construction company. Major
       steps in this project included linking site pages, adding an image carousel, and 
       implementing a contact form.</p>
-      <Link to="https://www.caffeyinc.com/">Caffey, Inc.</Link>
+      <Link to="https://www.caffey-inc.com/">Caffey, Inc.</Link>
 
       <h2><b>Mugshot: Facebook Clone</b></h2>
       <p>Technologies Used:
