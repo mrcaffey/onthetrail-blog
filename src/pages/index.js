@@ -9,6 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <h1>Welcome!</h1>
+    <Image />
     <p>Hi! My name is Micah Caffey. I'm an outdoorsman, conservationist, and passionate programmer.
     I moved from Mississippi to Utah in 2018 to fulfill my need to be near the mountains and take the 
     plunge into the world of software development.</p>
@@ -35,10 +36,7 @@ const IndexPage = () => (
     <p>Deployment day for the Caffey, Inc. Web Application. I've gotten the form to submit
     successfully using x,y,z technology and deployed via Netlify.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
     </div>
-    <Link to="/page-2/">Page 2</Link>
-    <Link to="/page-3/">Page 3</Link>
   </Layout>
 )
 

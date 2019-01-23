@@ -28,6 +28,8 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
     </div>
+    <Link to="/page-2/" style={{ color: 'green', float: 'right', margin: '10px' }}>Portfolio</Link>
+    <Link to="/page-3/" style={{ color: 'green', float: 'right', margin: '10px' }}>Contact Me</Link>
   </div>
 )
 
