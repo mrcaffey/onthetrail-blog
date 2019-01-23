@@ -24,17 +24,16 @@ const IndexPage = () => (
     <li>Ruby</li>
     <li>Rails framework</li>
     <li>SQL</li>
-    <li></li>
     </ul>
     <h1>2019</h1>
     <h2>January 19</h2>
-    <p>My first blog post! Today I'm working on a Udemy React 16.6 Tutorial
-    and trying to get a contact form working on a construction site for a company
-    in Mississippi. For this, I'm thinking I will need to implement PHP or Node for the backend.
-    Stay tuned!</p>
+    <p>My first blog post! I am working on completing a web app for a construction site. Stay tuned!</p>
     <h2>January 21</h2>
-    <p>Deployment day for the Caffey, Inc. Web Application. I've gotten the form to submit
-    successfully using x,y,z technology and deployed via Netlify.</p>
+    <p>Caffey, Inc. web application deployed via Netlify</p>
+    <h2>January 22</h2>
+    <p>Review and deep dive into virtualDOM & React Redux</p>
+    <h2>January 23</h2>
+    <p>Work on contact form submission -- NodeJS and PHP review</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
     </div>
   </Layout>
