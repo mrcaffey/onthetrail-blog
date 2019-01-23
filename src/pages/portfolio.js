@@ -5,7 +5,7 @@ import SEO from '../components/seo'
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Page two" />
+    <SEO title="Portfolio" />
     <h1>Welcome to My Portfolio!</h1>
       <h2><b>Enterprise International Web Application</b></h2>
       <p>Technologies Used:

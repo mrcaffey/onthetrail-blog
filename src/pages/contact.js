@@ -5,7 +5,7 @@ import SEO from '../components/seo'
 
 const ThirdPage = () => (
   <Layout>
-    <SEO title="Page three" />
+    <SEO title="Contact" />
         <div>
         <h1>Contact Me</h1>
         <form action="/action_page.php">
