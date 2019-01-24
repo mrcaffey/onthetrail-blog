@@ -3,7 +3,7 @@ module.exports = {
     pathPrefix: `/portfolio`,
     pathPrefix: `/contact`,
     title: `On the Trail: A Developer's Blog`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `Blog created with ReactJS by Micah Caffey.`,
     author: `@gatsbyjs`,
   },
   plugins: [
@@ -26,7 +26,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/icons8-evergreen-480.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
