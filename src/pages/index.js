@@ -23,6 +23,7 @@ const IndexPage = () => (
     <li>PHP</li>
     <li>Ruby</li>
     <li>Rails framework</li>
+    <li>C#</li>
     <li>SQL</li>
     </ul>
     <h1>2019</h1>
