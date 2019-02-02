@@ -18,12 +18,12 @@ const IndexPage = () => (
     <ul>
     <li>Javascript</li>
     <li>ReactJS</li>
+    <li>Redux</li>
     <li>React Native</li>
     <li>NodeJS</li>
     <li>PHP</li>
     <li>Ruby</li>
     <li>Rails framework</li>
-    <li>C#</li>
     <li>SQL</li>
     </ul>
     <h1>2019</h1>
