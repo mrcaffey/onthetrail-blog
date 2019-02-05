@@ -36,6 +36,8 @@ const IndexPage = () => (
     <h2>January 23</h2>
     <p>Work on contact form submission -- NodeJS and PHP review</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
+    <h2>February 1</h2>
+    <p>JavaScript Deep Dive/Refresher</p>
     </div>
   </Layout>
 )
