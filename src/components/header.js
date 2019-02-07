@@ -31,6 +31,7 @@ const Header = ({ siteTitle }) => (
     </div>
     <Link to="/contact/" style={{ color: 'black', float: 'right', margin: '10px', }}>Contact Me</Link>
     <Link to="/portfolio/" style={{ color: 'black', float: 'right', margin: '10px' }}>Portfolio</Link>
+    <Link to="/blog/" style={{ color: 'black', float: 'right', margin: '10px' }}>Blog</Link>
   </div>
 )
 
